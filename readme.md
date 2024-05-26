@@ -121,5 +121,5 @@ spec:
 
 The result will be 
 
-![Output](assets/output.png)
+![Output](assests/output.png)
 
