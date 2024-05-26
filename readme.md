@@ -1,3 +1,16 @@
+## HELM WORKFLOW
+
+![Workflow](assests/Workflow.png)
+
+vault setup
+![vaultsetup](assests/VaultSetup.png)
+
+
+Enable k8s auth
+![k8sauth](assests/Enable_k8s_auth.png)
+
+
+
 
 ## Install K9s
 
