@@ -117,7 +117,9 @@ spec:
         echo $VAULT_SECRET
 
         exit 0;
-
 ```
 
+The result will be 
+
+![Output](assets/output.png)
 
